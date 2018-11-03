@@ -7,4 +7,5 @@ def my_collect(collection)
     final_collection << item;
     i+=1;
   end
+  final_collection
 end
